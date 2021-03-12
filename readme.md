@@ -1,4 +1,4 @@
-# Substrate Events Listener & Storage Adapter
+# Tetcore Events Listener & Storage Adapter
 
 **Archived** - This repository is no longer up-to-date or maintained. Please refer to [Substrate Archive](https://github.com/paritytech/substrate-archive).
 
